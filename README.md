@@ -51,7 +51,7 @@ Create, Write, Read, File
 
 Append, Read, Exists, File
 
-
+![Image](https://github.com/user-attachments/assets/1a9302a4-e5d5-46e0-8eb8-50f224df28c1)
 
 Delete, Exists, Exit, File
 
