@@ -45,6 +45,14 @@ The isExistsFile() method checks if the file exists using exists() and then prin
 
 ## Output
 
+Create, Write, Read, File
+
 ![Image](https://github.com/user-attachments/assets/52dd0b3e-1fad-4301-9867-85898199316e)
+
+Append, Read, Exists, File
+
+
+
+Delete, Exists, Exit, File
 
 
